@@ -1,0 +1,17 @@
+{
+    "autoload": {
+        "psr-4": {
+            "api\\": "api/",
+            "app\\": "app/",
+            "src\\": "src/"
+        }
+    },
+    "require": {
+        "wuding/magic-cube": "dev-future",
+        "wuding/new-ui": "dev-future",
+        "wuding/topdb": "dev-future",
+        "wuding/php-ext": "dev-future",
+        "wuding/php-func": "dev-future",
+        "wuding/php-pkg": "dev-future"
+    }
+}
