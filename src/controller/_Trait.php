@@ -1,6 +1,6 @@
 <?php
 
-namespace app\search\src\controller;
+namespace apps\src\controller;
 
 use function Func\get;
 
