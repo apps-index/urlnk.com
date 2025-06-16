@@ -1,0 +1,573 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"func_",
+				"func_get_args()"
+			],
+			[
+				"get_de",
+				"get_defined_vars()"
+			],
+			[
+				"strto",
+				"strtotime()"
+			],
+			[
+				"array_un",
+				"array_unshift()"
+			],
+			[
+				"chunk",
+				"array_chunk()"
+			],
+			[
+				"a",
+				"aqua"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"impl",
+				"implode()"
+			],
+			[
+				"strtot",
+				"strtotime()"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"var_d",
+				"var_dump()"
+			],
+			[
+				"fun_get",
+				"func_get_args()"
+			],
+			[
+				"func_get",
+				"func_get_args()"
+			],
+			[
+				"ex",
+				"expression"
+			],
+			[
+				"var",
+				"var_dump()"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"read",
+				"readlink()"
+			],
+			[
+				"is",
+				"is_file"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"call",
+				"call_user_func_array()"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"fun_ge",
+				"func_get_args()"
+			],
+			[
+				"is_n",
+				"is_null()"
+			],
+			[
+				"is_ar",
+				"is_array()"
+			],
+			[
+				"implode",
+				"implode()"
+			],
+			[
+				"is_",
+				"is_numeric"
+			],
+			[
+				"el",
+				"elseif\telseif …"
+			],
+			[
+				"explo",
+				"explode()"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"pregh",
+				"preg_match()"
+			],
+			[
+				"json",
+				"json_decode()"
+			],
+			[
+				"exp",
+				"explode()"
+			],
+			[
+				"par",
+				"parseStr"
+			],
+			[
+				"var_",
+				"var_dump()"
+			],
+			[
+				"in_",
+				"in_array()"
+			],
+			[
+				"extra",
+				"extract()"
+			],
+			[
+				"str_rep",
+				"str_replace()"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"sub",
+				"substr()"
+			],
+			[
+				"subs",
+				"substr()"
+			],
+			[
+				"c",
+				"checkFile"
+			],
+			[
+				"check",
+				"checkFile"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"extr",
+				"extract()"
+			],
+			[
+				"pat",
+				"pathinfo()"
+			],
+			[
+				"is_in",
+				"is_int()"
+			],
+			[
+				"un",
+				"unlink()"
+			],
+			[
+				"__",
+				"__LINE__"
+			],
+			[
+				"t",
+				"totalPage"
+			],
+			[
+				"pg_",
+				"pg_max"
+			],
+			[
+				"parse",
+				"parse_url()"
+			],
+			[
+				"to",
+				"totalPage"
+			],
+			[
+				"var_dum",
+				"var_dump()"
+			],
+			[
+				"fora",
+				"foreach\tforeach …"
+			],
+			[
+				"path",
+				"pathinfo()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1366,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/J/git/github.com/apps-index/urlnk.com/main/urlnk.com"
+	],
+	"file_history":
+	[
+		"/J/git/github.com/apps-index/urlnk.com/main/urlnk.com/src/controller/_Abstract.php",
+		"/J/git/github.com/apps-index/urlnk.com/main/urlnk.com/src/controller/_Trait.php",
+		"/J/git/github.com/apps-index/.template/main/web/index.php",
+		"/J/git/github.com/apps-index/.template/main/src/template/index/index-cal.php",
+		"/J/git/github.com/apps-index/.template/main/src/controller/Index.php",
+		"/J/git/github.com/apps-index/.template/main/src/controller/engines/Index.php",
+		"/J/git/github.com/apps-index/.template/main/src/db.php",
+		"/J/git/github.com/apps-index/.template/main/src/template/index/index.php",
+		"/J/git/github.com/apps-index/.template/main/src/template/index/share.php",
+		"/J/git/github.com/apps-index/.template/main/web/css/style.css",
+		"/J/git/github.com/apps-index/.template/main/src/template/index/index - Copy (2).php",
+		"/J/git/github.com/apps-index/.template/main/src/template/index/index - Copy (3).php",
+		"/J/git/github.com/apps-index/.template/main/src/controller/fi.php",
+		"/J/git/github.com/apps-index/.template/main/src/controller/_Trait.php",
+		"/J/git/github.com/apps-index/.template/main/src/controller/_Interface.php",
+		"/J/git/github.com/apps-index/.template/main/src/controller/_Abstract.php",
+		"/J/git/github.com/apps-index/.template/main/conf/Dev.php",
+		"/J/git/github.com/apps-index/.template/main/src/Sql.php",
+		"/J/git/github.com/apps-index/.template/main/src/PdoExc.php",
+		"/J/git/github.com/apps-index/.template/main/src/Pdo.php",
+		"/J/git/github.com/apps-index/.template/main/.editorconfig",
+		"/J/git/github.com/apps-index/.template/main/m_tpl.sublime-project",
+		"/J/git/github.com/wuding/php-app/future/web/css/style.css",
+		"/J/git/github.com/wuding/php-app/future/app/search/src/template/index/index - Copy.php",
+		"/J/git/github.com/wuding/php-app/future/app/search/src/template/index/index - Copy (2).php",
+		"/J/git/github.com/wuding/php-app/future/app/search/web/css/style.css",
+		"/J/git/github.com/wuding/php-app/future/app/search/src/controller/_Abstract.php",
+		"/J/git/github.com/wuding/php-app/future/app/search/src/controller/_Trait.php",
+		"/J/git/github.com/wuding/php-app/future/app/search/src/controller/_Interface.php",
+		"/J/git/github.com/wuding/php-app/future/app/search/src/template/index/index.php",
+		"/J/git/github.com/wuding/php-app/future/app/search/src/controller/Index.php",
+		"/J/git/github.com/wuding/php-app/future/app/search/src/controller/engines/Index.php",
+		"/J/git/github.com/wuding/php-app/future/app/search/src/controller/fi.php",
+		"/J/git/github.com/wuding/php-app/future/app/search/conf/Dev.php",
+		"/J/git/github.com/wuding/php-app/future/app/search/src/controller/sub/foo.php",
+		"/J/git/github.com/wuding/php-ext/future/src/File.php",
+		"/J/git/github.com/wuding/php-ext/future/src/Link.php",
+		"/J/git/github.com/wuding/php-ext/future/src/Dir.php",
+		"/J/git/github.com/wuding/php-ext/future/example/pdo/index.php",
+		"/J/git/github.com/wuding/php-ext/future/src/Json.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-pkg/src/Glob.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-pkg/.editorconfig",
+		"/J/Server/VPS/amsterdam/home/wwwroot/movcd/php-app/src/model/Glob.php",
+		"/J/Server/Domain/urlnk/com/movcd/php-app/src/model/Glob.php",
+		"/J/Server/VCS/GitHub/wuding/topdb/develop/src/Tbl.php",
+		"/J/Server/VCS/GitHub/wuding/topdb/develop/.gitignore",
+		"/J/Server/VCS/GitHub/wuding/topdb/develop/.git/config",
+		"/K/Server/VCS/GitHub/wuding/topdb/develop/docs/api/README.md",
+		"/K/Server/VCS/GitHub/wuding/topdb/develop/src/Tbl.php",
+		"/K/Server/VCS/GitHub/wuding/topdb/develop/docs/api/Tbl.md",
+		"/K/Server/Domain/urlnk/com/@/php-app/web/phpinfo.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/web/captcha.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api2/src/version/v2/plugin/Ikanbot.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/web/pdd.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api2/src/version/v2/config/Pinduoduo.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api2/src/version/v2/plugin/Pinduoduo.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api2/src/version/v2/plugin/GuideRankApp.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api2/src/module/robot/GuideRank.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api2/src/module/robot/Alimama.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api2/src/version/v2/config/.dist/Pinduoduo.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api2/src/version/v2/plugin/Soft.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api2/docs/v2/plugin/Ikanbot.txt",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api2/src/version/v2/controller/Robot.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api2/docs/v2/plugin/Ikanbot.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api2/docs/v2/plugin/Ikanbot-.txt",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api2/src/controller/V2.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api2/src/module/Unicode.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api2/src/controller/_Abstract.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api2/src/config.php",
+		"/I/System/Portable/nginx-1.26.1/conf/vhosts/urlnk.org.conf",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api2/src/controller/V1.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api2/src/controller/Index.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api2/docs/v2/README.md",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api2/src/version/v2/template/index/index.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api2/src/controller/_Controller.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/shopping/data/sql/shopping-schema.sql",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/shopping/config.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/shopping/src/model/shopping/PddGoods.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/temp/downloads/pinduoduo/search/12/1.json",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api2/src/version/v2/controller/_Abstract.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api2/src/version/v2/controller/Index.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/composer.json",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Merge/Packages/User/Preferences.sublime-settings",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api/src/controller/Index.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api/docs/v2/README.md",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api/src/controller/_Controller.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api/src/controller/_Abstract.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api/src/controller/V1.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/app/api/src/controller/V2.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/magic-cube/app/index/template/error/404.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/magic-cube/src/Dispatcher.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/magic-cube/src/Controller.php",
+		"/L/Server/Domain/urlnk/com/@/php-app/vendor/wuding/magic-cube/src/Controller.php",
+		"/L/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Variable.php",
+		"/L/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Err.php",
+		"/L/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Sess.php",
+		"/L/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/PDO/MySQL.php",
+		"/L/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/PDO.php",
+		"/L/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/PDObj.php",
+		"/L/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Math.php"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_Trait",
+			"info",
+			"count(",
+			">p(",
+			"p(",
+			"$ed",
+			"background: ",
+			"background",
+			"350px",
+			"$prop",
+			"prop",
+			"public ",
+			"_template"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$N",
+			"",
+			"search"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								333,
+								333
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ul_com.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
