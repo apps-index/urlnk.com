@@ -4,14 +4,14 @@ namespace apps\src\model\search;
 
 class Term extends Db
 {
-    const VERSION = 25.0616;
-    const REVISION = 1;
+    const VERSION = 25.0718;
+    const REVISION = 2;
     const EDITION = 150709.1750057629;
     const BUILD = 20250614144131.1749883291;
 
     static $class = __CLASS__;
 
-    function exists($q)
+    function exists($q, $type = null)
     {
         $md5 = md5($q);
         $where = [
@@ -28,6 +28,7 @@ class Term extends Db
             'md5' => $md5,
             'query' => $q,
             'total' => 1,
+            'type' => $type,
         ];
         $ins = $this->insert($data);
         return $ins;
